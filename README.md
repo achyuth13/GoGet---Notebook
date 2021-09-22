@@ -1,2 +1,2 @@
-# GoGet-KNN-
-A Grocery Shop recommendation system.
+# GoGet-KNN
+Analysis and Validation for a recommendation formula in a Grocery Recommendation Application.
